@@ -25,7 +25,7 @@ SECRET_KEY = '!#3frt#=dh(m0-42h27g!o3(qs9d79fa1c=b2+h5n8d59b+uge'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['localhost', 'keisuu.jp']
 
 
 # Application definition
