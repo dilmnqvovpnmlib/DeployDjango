@@ -2,7 +2,7 @@
 
 # Build
 - `docker build -t app .`
-- `docker run --name app --rm -p 80:80 app
+- `docker run --name app --rm -p 80:80 app`
 
 # 注意点
 - 本番環境にデプロイする際には、settings.pyのALLOWED_HOSTSにIPやドメインを記述する必要がある。
